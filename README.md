@@ -1,1 +1,1 @@
-# scrapy-piratehub
+# Scraping s1.piratehub.biz

@@ -1,0 +1,9 @@
+[piratehub]
+username = your_website_username
+password = your_website_password
+
+[mysql]
+host = localhost
+user = myuser
+password = mypassword
+database = mydatabase
